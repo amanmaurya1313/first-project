@@ -230,7 +230,7 @@ header{
     content: '';
     bottom: 0;
     width: min(1000px, 100vw);
-    height: 90%;
+    height: 80%;
     left: 50%;
     transform: translateX(-50%);
     background-image: url(model.png);
@@ -242,4 +242,5 @@ header{
 .arrows button.d-none{
     opacity: 0;
     pointer-events: none;
+
 }
