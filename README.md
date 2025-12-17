@@ -11,6 +11,17 @@ This project is a responsive and interactive website with a clean UI and smooth 
 
 ---
 
+---
+
+## Video
+
+<video width="600" controls>
+  <source src="first-project.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🛠️ Technologies Used
 
 * **HTML** – Structure of the website
@@ -27,7 +38,7 @@ project-folder/
 │── style.css
 │── script.js
 │── README.md
-│── first-project.mkv
+│── first-project.mp4
 ```
 
 ---
