@@ -15,10 +15,7 @@ This project is a responsive and interactive website with a clean UI and smooth 
 
 ## Video
 
-<video width="600" controls>
-  <source src="first-project.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](videos/first-project.gif)
 
 ---
 
