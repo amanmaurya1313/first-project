@@ -27,6 +27,7 @@ project-folder/
 │── style.css
 │── script.js
 │── README.md
+│── first-project.mkv
 ```
 
 ---
