@@ -11,13 +11,6 @@ This project is a responsive and interactive website with a clean UI and smooth 
 
 ---
 
----
-
-## Video
-
-![Demo Video](videos/first-project.gif)
-
----
 
 ## 🛠️ Technologies Used
 
